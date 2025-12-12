@@ -1,5 +1,43 @@
-Official GitHub organization for the **Computational Chemistry research group** based in Rosario, Argentina.
+# 🔬 Computational Chemistry Group - Rosario, Argentina
 
-Our work is developed through a formal collaboration between **IQUIR (UNR)** and **INGEBIO (UCA)**.
+This is the official GitHub organization for the **Computational Chemistry Research Group** based in Rosario, Argentina. Our mission is the development of advanced computational tools and workflows applied to challenging problems in modern Chemistry.
 
-Directed by CONICET principal investigators Dr. Ariel Sarotti and Dr. María Marta Zanardi.
+---
+
+## 🤝 Institutional Affiliations
+
+Our work is carried out through a formal collaboration between two key research institutions in the region:
+
+* **INGEBIO (Instituto de Ingeniería Bioquímica, UCA):** Contributing expertise in modeling and application of computational chemistry to biological and pharmaceutical systems.
+* **IQUIR (Instituto de Química de Rosario, UNR-CONICET):** Providing expertise in synthesis, structural elucidation, and the interface between experimental and theoretical chemistry.
+
+## 🧪 Research Areas
+
+We focus on developing methodologies and models that accelerate chemical research, including:
+
+1.  **Quantum Calculations (DFT):** Detailed analysis of electronic properties, reaction mechanisms, and activation energies of organic and inorganic reactions.
+2.  **Structural Elucidation via NMR:** Development of Computational Chemistry workflows for the prediction and assignment of Nuclear Magnetic Resonance (NMR) spectra.
+3.  **Artificial Intelligence (AI) Models:** Use of Graph Neural Networks (GNNs) and other Machine Learning techniques to predict molecular properties, such as NMR parameters, and optimize molecular design.
+
+## 👥 Group Directors
+
+The group is directed and supervised by the following principal investigators from CONICET:
+
+* **Dr. Ariel Sarotti**
+    * **Expertise:** Computational Chemistry, NMR, and Reaction Mechanisms.
+    * **Contact:** [insert Ariel's email here]
+    * **Website:** [insert link to Ariel's CONICET/ResearchGate profile here]
+
+* **Dr. María Marta Zanardi**
+    * **Expertise:** Drug Design, Molecular Modeling, and Heterocyclic Systems.
+    * **Contact:** [insert Marta's email here]
+    * **Website:** [insert link to Marta's CONICET/ResearchGate profile here]
+
+---
+
+## 🚀 Key Repositories
+
+* **[`gaussian-utils`](link-to-repo):** Primary library for reading and standardizing Gaussian output files (logs, chk) for use across the group.
+* **[`gnn-nmr-project`](link-to-repo):** Thesis project focused on applying Graph Neural Networks for the prediction of NMR chemical shifts.
+
+**[⚠️ Note: This group maintains private repositories (Closed Source) for product development in collaboration with Scitrix Tech.]**
