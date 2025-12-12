@@ -8,8 +8,8 @@ This is the official GitHub organization for the **Computational Chemistry Resea
 
 Our work is carried out through a formal collaboration between two key research institutions in the region:
 
-* **INGEBIO (Instituto de Ingeniería Bioquímica, UCA):** Contributing expertise in modeling and application of computational chemistry to biological and pharmaceutical systems.
-* **IQUIR (Instituto de Química de Rosario, UNR-CONICET):** Providing expertise in synthesis, structural elucidation, and the interface between experimental and theoretical chemistry.
+* **Instituto de Química de Rosario - UNR-CONICET (IQUIR)**.
+* **Instituto de Investigaciones en Ingeniería Ambiental, Química y Biotecnología Aplicada - UCA (INGEBIO)**
 
 ## 🧪 Research Areas
 
@@ -21,17 +21,13 @@ We focus on developing methodologies and models that accelerate chemical researc
 
 ## 👥 Group Directors
 
-The group is directed and supervised by the following principal investigators from CONICET:
+The group is directed and supervised by the following principal investigators from CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas):
 
-* **Dr. Ariel Sarotti**
-    * **Expertise:** Computational Chemistry, NMR, and Reaction Mechanisms.
-    * **Contact:** [insert Ariel's email here]
-    * **Website:** [insert link to Ariel's CONICET/ResearchGate profile here]
+* **Dr. Ariel Sarotti** - (IQUIR - UNR)
+    * sarotti@iquir-conicet.gov.ar - [**LinkdIn**](https://www.linkedin.com/in/ariel-sarotti-283a5a1b9/?originalSubdomain=ar)
 
-* **Dr. María Marta Zanardi**
-    * **Expertise:** Drug Design, Molecular Modeling, and Heterocyclic Systems.
-    * **Contact:** [insert Marta's email here]
-    * **Website:** [insert link to Marta's CONICET/ResearchGate profile here]
+* **Dr. María Marta Zanardi** - (INGEBIO - UCA)
+    * zanardi@rosario-conicet.gov.ar - [**LinkdIn**](https://www.linkedin.com/in/mar%C3%ADa-marta-zanardi/)
 
 ---
 
