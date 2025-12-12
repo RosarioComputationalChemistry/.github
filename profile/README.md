@@ -1,4 +1,4 @@
-# 🔬 Computational Chemistry Group - Rosario, Argentina
+# 💻 Computational Chemistry Group - Rosario, Arg. ⚛️ 
 
 This is the official GitHub organization for the **Computational Chemistry Research Group** based in Rosario, Argentina. Our mission is the development of advanced computational tools and workflows applied to challenging problems in modern Chemistry.
 
