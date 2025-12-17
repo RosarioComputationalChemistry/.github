@@ -1,0 +1,66 @@
+name: 🚀 Requerimiento de Dirección
+description: Plantilla oficial para tareas solicitadas por el equipo directivo.
+title: "[DIR]: "
+labels: ["prioridad-alta", "dirección"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📋 Información General
+        Esta tarea ha sido solicitada por los directores. Por favor, completa los detalles antes de iniciar el desarrollo.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción del Requerimiento
+      description: ¿Qué se necesita lograr y por qué es importante?
+      placeholder: Ej. Implementar el nuevo flujo de checkout para reducir el abandono de carrito.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Prioridad Estratégica
+      options:
+        - Crítica (Bloqueante)
+        - Alta (Próximo Sprint)
+        - Media (Planificada)
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: ✅ Criterios de Aceptación
+      description: Lista detallada de condiciones para dar la tarea por finalizada.
+      placeholder: |
+        - El usuario debe poder pagar con tarjeta de crédito.
+        - Se debe enviar un correo automático de confirmación.
+
+  - type: checkboxes
+    id: workflow-checklist
+    attributes:
+      label: 🛠 Checklist de Ejecución Técnica
+      description: El desarrollador debe marcar estas casillas a medida que avanza.
+      options:
+        - label: Creación de Branch (feature/ o fix/) y entorno de Coding.
+          required: true
+        - label: Desarrollo y Unit Testing completado.
+          required: true
+        - label: Despliegue en entorno de Develop / Staging.
+          required: true
+        - label: QA y Pruebas de integración superadas.
+          required: true
+        - label: Documentación técnica y de usuario actualizada.
+          required: true
+        - label: Creación de Pull Request (PR) y revisión por pares.
+          required: true
+        - label: Merge a Main y cierre de Issue.
+          required: true
+
+  - type: input
+    id: documentation-link
+    attributes:
+      label: 🔗 Link a la Documentación
+      description: URL de Confluence, Notion o Wiki donde se documentó el cambio.
