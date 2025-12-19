@@ -31,9 +31,3 @@ The group is directed and supervised by the following principal investigators fr
 
 ---
 
-## 🚀 Key Repositories
-
-* **[`gaussian-utils`](link-to-repo):** Primary library for reading and standardizing Gaussian output files (logs, chk) for use across the group.
-* **[`gnn-nmr-project`](link-to-repo):** Thesis project focused on applying Graph Neural Networks for the prediction of NMR chemical shifts.
-
-**[⚠️ Note: This group maintains private repositories (Closed Source) for product development in collaboration with Scitrix Tech.]**
